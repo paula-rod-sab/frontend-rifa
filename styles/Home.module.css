@@ -1,10 +1,5 @@
 .main {
-  min-height: 100vh;
-}
-
-.main h1 {
-  font-size: 3em;
-  font-weight: bold;
+  min-height: 200vh;
 }
 
 .footer {
