@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Creando rifa ethers benéfica</title>
+        <title>Rifa benéfica Siempre Fuertes</title>
         <meta name="description" content="Dapp rifa benéfica" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -29,7 +29,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <p>&copy; 2022 Rifa benéfica Ethers</p>
+        <p>&copy; 2022 Rifa benéfica Siempre Fuertes</p>
       </footer>
     </div>
   )

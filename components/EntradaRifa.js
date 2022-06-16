@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 import { useMoralis } from "react-moralis"
 import { ethers } from "ethers"
 
-const CONTRACT_ADDRESS = "0xC53E4e86e6a73e32e64531489361640f83435d2c"
+const CONTRACT_ADDRESS = "0x67a0c3439bf0F5D73CC1F89780Cd7eAF8C0aFed2"
 
 export default function EntradaRifa(){
     const { isWeb3Enabled } = useMoralis() 
@@ -264,7 +264,7 @@ export default function EntradaRifa(){
                             <div className="column mx-2">
                                 <article class="message mt-2 is-success">    
                                     <div class="message-body">
-                                        <div className="is-size-5" ><strong>Numero de ronda: </strong></div>
+                                        <div className="is-size-5" ><strong>Número de ronda: </strong></div>
                                         <div>{rondaId}</div>
                                     </div>
                                 </article>
@@ -278,7 +278,7 @@ export default function EntradaRifa(){
                         </div>
                     </div>
                     <div class="column">
-                        <p className="is-size-4 has-text-centered">Informacion rifa</p>
+                        <p className="is-size-4 has-text-centered">Información rifa</p>
                         <div class="card mt-2">
                             <div class="card-content">
                                 <div class="content">
