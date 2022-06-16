@@ -247,7 +247,7 @@ export default function EntradaRifa(){
                     <div className="column is-half mx-6">
                         <p className="is-size-4 has-text-centered mb-5">Tablón recuento</p>
                         <div className="columns">
-                            <div className="column mx-4">
+                            <div className="column mx-2">
                                 <article class="message mt-2 is-success">    
                                     <div class="message-body">
                                         <div className="is-size-5" ><strong>Boletos vendidos: </strong></div>
@@ -261,7 +261,7 @@ export default function EntradaRifa(){
                                     </div>
                                 </article>
                             </div>
-                            <div className="column mx-4">
+                            <div className="column mx-2">
                                 <article class="message mt-2 is-success">    
                                     <div class="message-body">
                                         <div className="is-size-5" ><strong>Numero de ronda: </strong></div>

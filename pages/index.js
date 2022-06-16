@@ -23,7 +23,7 @@ export default function Home() {
             <EntradaRifa/>
           </>
         ) : (
-          <div>Conecta Metamask.</div>
+          <div className='is-size-4 has-text-centered'>¡Hola! ¡Conecta Metamask para poder participar!</div>
         )}
 
       </main>
