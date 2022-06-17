@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 import { useMoralis } from "react-moralis"
 import { ethers } from "ethers"
 
-const CONTRACT_ADDRESS = "0x67a0c3439bf0F5D73CC1F89780Cd7eAF8C0aFed2"
+const CONTRACT_ADDRESS = "0xd63A5ac98e1d4d100dEaD3B6619e2c038adF3d21"
 
 export default function EntradaRifa(){
     const { isWeb3Enabled } = useMoralis() 
